@@ -12,23 +12,15 @@
 
 ## 安装
 
-将此目录复制到：
+将此目录复制到 `~/.codex/skills/international-marketing-intel`。
 
-\`\`\`
-~/.codex/skills/international-marketing-intel
-\`\`\`
-
-下一轮对话即可使用；也可以显式调用 \`$international-marketing-intel\`。
+下一轮对话即可使用；也可以显式调用 `$international-marketing-intel`。
 
 ## 示例
 
-\`\`\`
-研究一个国际营销高手，重点看他的品牌增长方法，并准备我可以问的问题。
-\`\`\`
+`研究一个国际营销高手，重点看他的品牌增长方法，并准备我可以问的问题。`
 
-\`\`\`
-用 international-marketing-intel 研究 Rory Sutherland，会议目的是了解行为营销和品牌增长。
-\`\`\`
+`用 international-marketing-intel 研究 Rory Sutherland，会议目的是了解行为营销和品牌增长。`
 
 ## 说明
 
